@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04082011-119348";"";
+"REFERENCE";"20910-010X5000";"";
+"TraceParts.PartTitle";"20910 INDUCTIVE PROXIMITY SWITCHES HOUSING SHAPE WITH THREAD";"";
+"TraceParts.InstanceId";"10-04082011-1193482841STZWTXE6FH7MYXA3KI2B";"";
+"TraceParts.PartStatus";"Published";"";
+"SUPPLIER";"NORELEM";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"DESIGN";"20910 INDUCTIVE PROXIMITY SWITCHES HOUSING SHAPE WITH THREAD";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NORELEM:/ROOT/10-04082011-119348";"";
